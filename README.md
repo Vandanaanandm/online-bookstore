@@ -15,7 +15,7 @@ runserver
 
 ## API Endpoints
 
-/api/register/ – Register new user
-/api/books/ – List / Add books
-/api/bookdetails – View / Edit / Delete book
-/api/orders/ – Place or view orders
+* /api/register/ – Register new user
+* /api/books/ – List / Add books
+* /api/bookdetails – View / Edit / Delete book
+* /api/orders/ – Place or view orders
